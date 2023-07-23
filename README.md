@@ -1,2 +1,3 @@
-# sagaquizer
-A tool for creating quizzes about books using GPT
+# Sagaquizer
+
+This python application takes books as input and generates quizzes with the help of OpenAI's GPT models.
